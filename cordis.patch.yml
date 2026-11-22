@@ -1,0 +1,4 @@
+- insert:
+    - id: skill-law-mgmt-paper-reader
+      name: '@local/law-mgmt-paper-reader'
+      config: {}
